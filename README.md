@@ -13,7 +13,7 @@ A set of Sorting Algorithms implemented in Python for learning purposes.
 - [x] Add Quicksort 3way
 - [x] Add Bucket Sort
 - [x] Add Counting Sort
-- [ ] Add Radix Sort
+- [x] Add Radix Sort
 - [ ] Add tests
 - [ ] Write template for specific algorithm documentation
 - [ ] Write doc for every algorithm
