@@ -11,7 +11,7 @@ A set of Sorting Algorithms implemented in Python for learning purposes.
 - [x] Add Quicksort
 - [x] Add Random Quicksort
 - [x] Add Quicksort 3way
-- [ ] Add Bucket Sort
+- [x] Add Bucket Sort
 - [ ] Add Counting Sort
 - [ ] Add Radix Sort
 - [ ] Add tests
