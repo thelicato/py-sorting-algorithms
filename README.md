@@ -6,7 +6,7 @@ A set of Sorting Algorithms implemented in Python for learning purposes.
 
 ## Roadmap
 - [x] Add Insertion Sort
-- [ ] Add Merge Sort
+- [x] Add Merge Sort
 - [ ] Add Heapsort
 - [ ] Add Quicksort
 - [ ] Add Random Quicksort
@@ -14,7 +14,9 @@ A set of Sorting Algorithms implemented in Python for learning purposes.
 - [ ] Add Bucket Sort
 - [ ] Add Counting Sort
 - [ ] Add Radix Sort
+- [ ] Add tests
 - [ ] Write template for specific algorithm documentation
+- [ ] Write doc for every algorithm
 - [ ] Add a **visualizer**
 
 ## License
